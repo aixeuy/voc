@@ -1,0 +1,45 @@
+Anglais:Англичанин:0
+arbres:Деревья:3
+ты __(jouer):играешь:0
+﻿chaussure:туфля:0
+Chrétien:Христианин:0
+Tableau:Картина:1
+drapeaux:Знамёна:3
+Grand:Большoй:0
+tu comprends:Ты понимаешь:1
+Ami:Друг:0
+arbre:Дерево:1
+citoyen:Гражданин:6
+stylo:pучка:1
+Beau:Красивый:0
+île:остров:0
+Fenêtre:Окно:0
+Nuit:Ночь:0
+noms:Имена:8
+La robe bleue me plaît:Синее платье мне нравится:0
+aller à pied:идти:1
+pomme:Яблоко:2
+manteau:пальто:3
+nom:Имя:1
+__(Русский neutre):Русское:0
+﻿Etes-vous russes:Вы русские:0
+tu vas:ты идёшь:0
+drapeau:Знамя:7
+Bleue:Синяя:2
+Bâtiments:Здания:1
+directeur:директор:0
+Citoyens:Граждане:0
+Fenêtres:Окна:1
+villes:Города:1
+tu (vouvoie):Вы:0
+/река/:rika':1
+porte:дверь:0
+Мы __((aller en utilisant un moyen de transport):едем:1
+Jouet:Игрушка:0
+Bâtiment:Здание:0
+Village:Деревня:2
+Г/о/рода:a:1
+crayon:карандаш:3
+paysan:Крестьянин:2
+Спак/о/йной:o:0
+amis:Друзья:5
